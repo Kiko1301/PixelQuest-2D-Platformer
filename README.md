@@ -33,15 +33,15 @@ For a standalone build: Go to File > Build Settings, select your platform (PC/Ma
 
 Project Structure
 PixelQuest-2D-Platformer/
-├── Assets/
-│   ├── Scripts/          # PlayerController.cs, EnemyAI.cs, etc.
-│   ├── Sprites/          # Pixel art assets for characters and environments.
-│   ├── Scenes/           # MainScene.unity, Level1.unity.
-│   ├── Prefabs/          # Reusable game objects like Player and Platforms.
-│   └── Audio/            # SFX and background music.
-├── ProjectSettings/      # Unity project configs.
-├── README.md             # You're reading it!
-└── .gitignore            # Ignores Unity temp files.
+-├── Assets/
+-│   ├── Scripts/          # PlayerController.cs, EnemyAI.cs, etc.
+-│   ├── Sprites/          # Pixel art assets for characters and environments.
+-│   ├── Scenes/           # MainScene.unity, Level1.unity.
+-│   ├── Prefabs/          # Reusable game objects like Player and Platforms.
+-│   └── Audio/            # SFX and background music.
+-├── ProjectSettings/      # Unity project configs.
+-├── README.md             # You're reading it!
+-└── .gitignore            # Ignores Unity temp files.
 
 Controls
 
