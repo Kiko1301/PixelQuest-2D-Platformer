@@ -36,9 +36,7 @@ PixelQuest-2D-Platformer/
 ├── Assets/
 │   ├── Scripts/         # PlayerController.cs, EnemyAI.cs, etc. 🧑‍💻
 │   ├── Sprites/         # Pixel art assets for characters and environments 🎨
-│   ├── Scenes/          # MainScene.unity, Level1.unity 🗺️
-│   ├── Prefabs/         # Reusable game objects like Player and Platforms 🛠️
-│   └── Audio/           # SFX and background music 🎶
+│   └── Scenes/          # MainScene.unity, Level1.unity 🗺️
 ├── ProjectSettings/     # Unity project configs ⚙️
 ├── README.md            # You're reading it! 📜
 └── .gitignore           # Ignores Unity temp files 🗑️
@@ -69,4 +67,4 @@ Open a Pull Request 📬!
 Feedback welcome—issues or stars appreciated! ⭐
 License 📝
 MIT License - Feel free to use, modify, and distribute. See LICENSE for details.
-Made with ❤️ in Unity
+Made with ❤️ in Unity by [Your Name/Username].Last updated: September 2025 🗓️
